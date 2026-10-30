@@ -27,7 +27,8 @@ blend), native whey, claimed French origin.
 
 - Source et mise à jour / Source and updates: [mywheyprices.com/donnees/composition-whey/](https://mywheyprices.com/donnees/composition-whey/)
 - Méthode / Methodology: [mywheyprices.com/notre-methode/](https://mywheyprices.com/notre-methode/)
-- Également sur / Also on: [data.gouv.fr](https://www.data.gouv.fr/datasets/composition-nutritionnelle-des-proteines-whey-vendues-en-france)
+- Également sur / Also on: [data.gouv.fr](https://www.data.gouv.fr/datasets/composition-nutritionnelle-des-proteines-whey-vendues-en-france), [Zenodo](https://doi.org/10.5281/zenodo.23815078), [GitHub](https://github.com/mywheyprices-data/whey-composition-france), [Hugging Face](https://huggingface.co/datasets/mywheyprices/whey-composition-france), [Kaggle](https://www.kaggle.com/datasets/mywheyprices/whey-protein-composition-in-france)
+- Citation : MyWheyPrices (2026). Composition des protéines whey vendues en France. Zenodo. https://doi.org/10.5281/zenodo.23815078
 
 ## Fichiers / Files
 

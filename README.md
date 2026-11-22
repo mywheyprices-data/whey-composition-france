@@ -13,15 +13,22 @@ tags:
 - france
 size_categories:
 - n<1K
+configs:
+- config_name: default
+  data_files: whey-composition-france.csv
+  default: true
+- config_name: fr
+  data_files: composition-whey-fr.csv
+  sep: ";"
 ---
 
 # Composition des protéines whey vendues en France / Whey protein composition (France)
 
-Relevé, étiquette par étiquette, de la composition nutritionnelle de **61 gammes de protéines en poudre** (dont 44 whey) de
-30 marques vendues en France : protéines pour 100 g et par dose, glucides, sucres, lipides, lactose, édulcorants, forme
+Relevé, étiquette par étiquette, de la composition nutritionnelle de **59 gammes de protéines en poudre** (dont 44 whey) de
+29 marques vendues en France (export du 22 novembre 2026) : protéines pour 100 g et par dose, glucides, sucres, lipides, lactose, édulcorants, forme
 (isolat, concentrée, mélange), whey native, origine France revendiquée.
 
-Nutrition facts of **61 protein powder product lines** (44 whey) from 30 brands sold in France, taken from the product
+Nutrition facts of **59 protein powder product lines** (44 whey) from 29 brands sold in France (export of 22 November 2026), taken from the product
 labels: protein per 100 g and per serving, carbohydrates, sugars, fat, lactose, sweeteners, form (isolate, concentrate,
 blend), native whey, claimed French origin.
 
@@ -39,10 +46,11 @@ blend), native whey, claimed French origin.
 
 ## Quelques chiffres / Key figures
 
-- Teneur médiane en protéines / median protein content: **83 g / 100 g** pour un isolat (isolate, 20 gammes, 79 à 90 g),
-  **72 g** pour une concentrée (concentrate, 10 gammes), **75,5 g** pour un mélange concentrée + isolat (14 gammes).
-- **47 gammes sur 61** contiennent du sucralose dans leur saveur de référence ; **9** n'ont aucun édulcorant.
-  47 of 61 product lines contain sucralose in their reference flavour; 9 contain no sweetener.
+- Teneur médiane en protéines / median protein content: **82 g / 100 g** pour un isolat (isolate, 19 gammes, 79 à 90 g),
+  **71 g** pour une concentrée (concentrate, 11 gammes), **76 g** pour un mélange concentrée + isolat (11 gammes).
+- **46 gammes sur 58** dont l'étiquette détaille les édulcorants contiennent du sucralose dans leur saveur de référence ;
+  **6** n'ont aucun édulcorant.
+  46 of the 58 product lines whose label lists sweeteners contain sucralose in their reference flavour; 6 contain no sweetener.
 
 ## Colonnes / Columns (`whey-composition-france.csv`)
 
